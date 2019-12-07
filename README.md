@@ -1,2 +1,2 @@
 # FinanceSmart
-Senior Design Beta Application
+ Senior Design Beta
