@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -101,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FinanceSmart\FinanceSmart.csproj">
-      <Project>{53F782CD-32AD-43A2-8B73-D19E786C31C5}</Project>
+      <Project>{AF6D05C1-4011-4E8B-A1C2-9767223E941C}</Project>
       <Name>FinanceSmart</Name>
     </ProjectReference>
   </ItemGroup>
