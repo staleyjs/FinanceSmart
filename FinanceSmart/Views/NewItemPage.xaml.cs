@@ -22,7 +22,7 @@ namespace FinanceSmart.Views
             Item = new Item
             {
                 Text = "Item name",
-                Description = "This is an item description."
+                Description = "Item description."
             };
 
             BindingContext = this;
